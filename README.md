@@ -1,1 +1,0 @@
-# nok-and-fibonacci-code
